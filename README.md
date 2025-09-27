@@ -74,13 +74,24 @@ Upon launching, you will be prompted to choose a login method:
 1.  **Using Session ID:** This is the recommended method for security and stability. You can obtain your session ID using tools like `sessionid.py` (included in this repository) or browser extensions. This method avoids sending your username and password directly to the `instagrapi` library for every session.
 2.  **Using Username and Password:** A direct login method. If you have two-factor authentication enabled, you will be prompted to enter the 2FA code.
 
-![Login Screen](sessionid.py..jpg)
+<table align="center">
+  <tr>
+    <td>
+      <img src="sessionid.py..jpg" width="400" alt="sessionid.py" />
+    </td>
+  </tr>
+</table>
 
 ### Main Menu
 
 Once logged in, the main menu will appear, offering a variety of automation tasks:
-
-![Main Menu](Instagram_Automation_Toolkit.py..jpg)
+<table align="center">
+  <tr>
+    <td>
+      <img src="Instagram_Automation_Toolkit.py..jpg" width="400" alt="Instagram_Automation_Toolkit.py" />
+    </td>
+  </tr>
+</table>
 
 
 Follow the on-screen prompts to select the desired action and provide any necessary input.
